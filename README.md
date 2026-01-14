@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Anumitha R
 
-<!--
-**Anumitha-10/Anumitha-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engineering Student** | 💻 **Beginner Programmer** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning **basic programming languages**
+- 🛠 Working on an **Offline Forensic Detection App**
+- 🎨 Interested in **designing and coding**
+- 📚 Passionate about learning new technologies step by step
+  
+## 💡 Skills
+- 🤝 Teamwork  
+- 🗣 Communication Skills  
+- ⏳ Time Management  
+- 💻 Basic Computer Skills  
+- 🧠 Problem Solving
+
+  ## 🎯 Interests
+- Coding & Application Development  
+- Designing  
+- Learning New Technologies
+
+  ## 💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</p>
+
+## 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+</p>
+
+## 📈 GitHub Stats
+![Anumitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANUMITHA-10&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- GitHub: https://github.com/ANUMITHA-10
